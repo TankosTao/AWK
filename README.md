@@ -51,11 +51,11 @@ conda install pytorch torchvision cudatoolkit=11.1 -c pytorch
 
 
 ## KINFACEW-I KINFACEW-II TSKINFACE
-![Image text](../images_1/father-dau/fd_001_1.jpg)![Image text](../images_1/father-dau/fd_001_2.jpg) ![Image text](../images_1/mother-dau/md_001_1.jpg)![Image text](../images_1/mother-dau/md_001_2.jpg) ![Image text](../images_1/mother-son/ms_001_1.jpg)![Image text](../images_1/mother-son/ms_001_2.jpg) ![Image text](../images_1/father-son/fs_001_1.jpg)![Image text](../images_1/father-son/fs_001_2.jpg)
+![Image text](./images_1/father-dau/fd_001_1.jpg)![Image text](./images_1/father-dau/fd_001_2.jpg) ![Image text](./images_1/mother-dau/md_001_1.jpg)![Image text](./images_1/mother-dau/md_001_2.jpg) ![Image text](./images_1/mother-son/ms_001_1.jpg)![Image text](../images_1/mother-son/ms_001_2.jpg) ![Image text](../images_1/father-son/fs_001_1.jpg)![Image text](../images_1/father-son/fs_001_2.jpg)
 
-![Image text](../images_2/images/fd_001_1.jpg)![Image text](../images_2/images/fd_001_2.jpg) ![Image text](../images_2/images/fs_001_1.jpg)![Image text](../images_2/images/fs_001_2.jpg) ![Image text](../images_2/images/ms_001_1.jpg)![Image text](../images_2/images/ms_001_2.jpg) ![Image text](../images_2/images/md_001_1.jpg)![Image text](../images_2/images/md_001_2.jpg)
+![Image text](./images_2/images/fd_001_1.jpg)![Image text](./images_2/images/fd_001_2.jpg) ![Image text](./images_2/images/fs_001_1.jpg)![Image text](./images_2/images/fs_001_2.jpg) ![Image text](./images_2/images/ms_001_1.jpg)![Image text](./images_2/images/ms_001_2.jpg) ![Image text](../images_2/images/md_001_1.jpg)![Image text](../images_2/images/md_001_2.jpg)
 
-![Image text](../tskimg/md/md_1_d.jpg)![Image text](../tskimg/md/md_1_m.jpg) ![Image text](../tskimg/ms/ms_1_s.jpg)![Image text](../tskimg/ms/ms_1_m.jpg) ![Image text](../tskimg/fd/fd_1_d.jpg)![Image text](../tskimg/fd/fd_1_f.jpg) ![Image text](../tskimg/fs/fs_1_s.jpg)![Image text](../tskimg/fs/fs_1_f.jpg)
+![Image text](./tskimg/md/md_1_d.jpg)![Image text](./tskimg/md/md_1_m.jpg) ![Image text](./tskimg/ms/ms_1_s.jpg)![Image text](./tskimg/ms/ms_1_m.jpg) ![Image text](./tskimg/fd/fd_1_d.jpg)![Image text](./tskimg/fd/fd_1_f.jpg) ![Image text](./tskimg/fs/fs_1_s.jpg)![Image text](../tskimg/fs/fs_1_f.jpg)
 
 
 
