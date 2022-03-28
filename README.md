@@ -1,7 +1,7 @@
 
 # ATTENTION
 
-We setup a password for the source codes, since the related paper is still in revision. please send email to huangsheng@cqu.edu.cn for requesting the access password of source codes.
+our paper "Adaptively Weighted k-tuple Metric Network for Kinship Verification" has been accepted by IEEE Transactions on Cybernetics （Impact Factor=11.448）
 
 
 
@@ -77,7 +77,8 @@ python kinship.py --conv=conv1234 --dataset=KINFACE1
 ```  
 
 ### eval
-
+Adaptively Weighted k-tuple Metric Network for
+Kinship Verification
 ```
 python eval/kinship_eval.py --conv conv1234 -t KINFACE1 --feature_encoder './model/KINFACE1_model/feature_encoder_KINFACE1_KINFACE1_conv1234_awk_K_PAIR_2_SPLIT_1_a_0.6_m_0.4.pkl' --relation_network './model/KINFACE1_model/relation_network_KINFACE1_KINFACE1_conv1234_awk_K_PAIR_2_SPLIT_1_a_0.6_m_0.4.pkl'
 ```  
@@ -123,7 +124,7 @@ python detect_relation_from_origin_pic.py --conv=conv1234 --dataset=KINFACE1 --f
  - `kinship.py` you can train our network with this file
  - `eval/kinship_eval.py` you can eval our network with this file
  - `test/kinship_test.py` you can test our network with this file
- - `model` the pretrained weights of our network 
+ - `model` the trained weights of our network 
  - `dataset` kinfaceW-I kinfaceW-II tskinface datasets
  - `conv`   
  <!-- - `conv`  
@@ -131,12 +132,26 @@ python detect_relation_from_origin_pic.py --conv=conv1234 --dataset=KINFACE1 --f
  - `utils` functions required by face detection algorithm
  - `infer_path.py` 使用路径预测图像，检测图片上人脸的位置和关键的位置，并显示
  - `infer_camera.py` 预测图像程序，检测图片上人脸的位置和关键的位置实时显示 -->
-# cite our paper
 
+
+# If you find this project useful in your research, please consider cite:
+``` 
+@article{Huang2022,
+    author = {Sheng Huang and Jingkai Lin and Yun Xin},
+    title = {Adaptively Weighted k-tuple Metric Network for Kinship Verification},
+    booktitle = {IEEE Transactions on Cybernetics},
+    year = {2022}
+}
+
+
+Sheng Huang, Jingkai Lin, Yun Xing, "Adaptively Weighted k-tuple Metric Network for Kinship Verification". IEEE Transactions on Cybernetics 2022,Accepted. (CCF-B)
+
+
+``` 
 <!-- 
 
 
 
 <!-- ## reference  -->
 <!-- 
-1. https://github.com/yeyupiaoling/Pytorch-MTCNN.git  --> -->
+1. https://github.com/yeyupiaoling/Pytorch-MTCNN.git  --> 
