@@ -1,0 +1,8 @@
+2021-09-26 23:25:43,254 - log.py[line:70] - INFO: this is a logger info message
+2021-09-26 23:25:43,254 - log.py[line:71] - WARNING: this is a logger warning message
+2021-09-26 23:25:43,254 - log.py[line:72] - ERROR: this is a logger error message
+2021-09-26 23:25:43,254 - log.py[line:73] - CRITICAL: this is a logger critical message
+[2021/09/26 23:26:10] root INFO: this is a logger info message
+[2021/09/26 23:26:10] root WARNING: this is a logger warning message
+[2021/09/26 23:26:10] root ERROR: this is a logger error message
+[2021/09/26 23:26:10] root CRITICAL: this is a logger critical message
