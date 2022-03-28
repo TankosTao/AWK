@@ -15,7 +15,10 @@ from PIL import Image
 import torchvision.transforms as transforms
 from torch.utils.data import Dataset
 import cv2 as cv
-
+import sys
+__dir__ = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(__dir__)
+sys.path.append(os.path.abspath(os.path.join(__dir__, '..')))
 
 
 split_set = {'1':[2,3,4,5],

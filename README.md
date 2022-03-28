@@ -79,7 +79,7 @@ python kinship.py --conv=conv1234 --dataset=KINFACE1
 ### eval
 
 ```
-python eval/kinship_eval.py --conv=conv1234 --dataset=KINFACE1 --feature_encoder='yourmodelpath' --relation_network='yourmodelpath'
+python eval/kinship_eval.py --conv conv1234 -t KINFACE1 --feature_encoder './model/KINFACE1_model/feature_encoder_KINFACE1_KINFACE1_conv1234_awk_K_PAIR_2_SPLIT_1_a_0.6_m_0.4.pkl' --relation_network './model/KINFACE1_model/relation_network_KINFACE1_KINFACE1_conv1234_awk_K_PAIR_2_SPLIT_1_a_0.6_m_0.4.pkl'
 ```  
 ### test your own  face images
 
@@ -131,9 +131,12 @@ python detect_relation_from_origin_pic.py --conv=conv1234 --dataset=KINFACE1 --f
  - `utils` functions required by face detection algorithm
  - `infer_path.py` 使用路径预测图像，检测图片上人脸的位置和关键的位置，并显示
  - `infer_camera.py` 预测图像程序，检测图片上人脸的位置和关键的位置实时显示 -->
+# cite our paper
+
 <!-- 
 
 
-## reference 
 
-1. https://github.com/yeyupiaoling/Pytorch-MTCNN.git  -->
+<!-- ## reference  -->
+<!-- 
+1. https://github.com/yeyupiaoling/Pytorch-MTCNN.git  --> -->

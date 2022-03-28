@@ -1,16 +1,16 @@
 TSKINFACE:
   dataroot: ./tskimg
-  picroot: ../tskimg
+  picroot: ./tskimg
   addtion: 
 
 KINFACE1:
-  dataroot: ../meta_data_1
-  picroot: ../images_1/image
+  dataroot: ./meta_data_1
+  picroot: ./images_1/image
   addtion: 
 
 KINFACE2:
-  dataroot: ../meta_data_2
-  picroot: ../images_2/image
+  dataroot: ./meta_data_2
+  picroot: ./images_2/images
   addtion: 
 
 

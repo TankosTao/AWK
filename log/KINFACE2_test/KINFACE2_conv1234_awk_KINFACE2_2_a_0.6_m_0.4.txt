@@ -1,0 +1,1 @@
+{"time": "Mon Mar 28 18:23:03 2022", "Mean": 0.935, "split": 1, "FS": 0.92, "FD": 0.92, "MS": 0.9, "MD": 1.0, "pkl": "./KINFACE2_model/KINFACE2_KINFACE2_conv1234_awk_K_PAIR_2_SPLIT_1_a_0.6_m_0.4.pkl"}

@@ -19,7 +19,9 @@ import cv2 as cv
 from test_tskinface import tskinface_test_dataset 
 from os.path import join
 import sys
-sys.path.append("..")
+__dir__ = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(__dir__)
+sys.path.append(os.path.abspath(os.path.join(__dir__, '..')))
 
 
 

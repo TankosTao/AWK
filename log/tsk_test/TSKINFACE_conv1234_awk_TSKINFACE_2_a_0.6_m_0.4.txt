@@ -1,0 +1,1 @@
+{"time": "Mon Mar 28 18:22:16 2022", "Mean": 0.941764705882353, "split": 1, "FS": 0.9509803921568627, "FD": 0.935, "MS": 0.946078431372549, "MD": 0.935, "pkl": "./TSKINFACE_model/TSKINFACE_TSKINFACE_conv1234_awk_K_PAIR_2_SPLIT_1_a_0.6_m_0.4.pkl"}
